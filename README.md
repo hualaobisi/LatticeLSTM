@@ -23,7 +23,7 @@ It is ResumeNER data, if you want to use your own dataset, the data need to be C
 	风	O
 	生	O 
   
-  ## Usage:
+  ## Quick Start:
 1. Clone this code repository to your local machine:
 ```sh
 $ git clone https://github.com/hualaobisi/LatticeLSTM.git
