@@ -34,9 +34,9 @@ $ git clone https://github.com/hualaobisi/LatticeLSTM.git
 
 4. Run the training program:
 ```sh
-$ bash run_train.py
+$ bash run_train.sh
 ```
 5. Run the predicting program:
 ```sh
-$ bash run_predict.py
+$ bash run_predict.sh
 ```
